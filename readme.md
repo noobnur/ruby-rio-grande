@@ -18,7 +18,7 @@ We are creating this using Test Driven Development. As a refresher, here is the 
 * Run test again (it should pass)
 * Refactor if necessary
 
-##Working in Pairs (recommended)
+## Working in Pairs (recommended)
 
 Due to the TDD-nature of this assignment, it's recommended that you pair up with another person and work on this collaboratively. If you decide to take this route:
 
